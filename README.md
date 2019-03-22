@@ -262,4 +262,20 @@ Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/L
 #   K o r e a n n o r m a l i z a t i o n 2  
  #   K o r e a n n o r m a l i z a t i o n 2  
  #   K o r e a n n o r m a l i z a t i o n 2  
+ #   e m o t i o n _ a n a l y s i s  
+ #   e m o t i o n _ a n a l y s i s  
+ #   e m o t i o n _ a n a l y s i s  
+ #   e m o t i o n _ a n a l y s i s  
+ #   e m o t i o n _ a n a l y s i s  
+ #   e m o t i o n _ a n a l y s i s  
+ #   e m o t i o n _ a n a l y s i s  
+ #   e m o t i o n _ a n a l y s i s  
+ #   e m o t i o n _ a n a l y s i s  
+ #   e m o t i o n _ a n a l y s i s  
+ #   e m o t i o n _ a n a l y s i s  
+ #   e m o t i o n _ a n a l y s i s  
+ #   e m o t i o n _ a n a l y s i s  
+ #   e m o t i o n _ a n a l y s i s  
+ #   e m o t i o n _ a n a l y s i s  
+ #   e m o t i o n _ a n a l y s i s  
  

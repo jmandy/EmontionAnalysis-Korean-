@@ -23,7 +23,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry combineaccessrules="false" kind="src" path="/google-api-translate-java"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/jwnl-prime"/>
-	<classpathentry kind="lib" path="C:/Users/jmand/OneDrive/바탕 화면/unirest-java-1.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jmand/OneDrive/바탕 화면/jar_files/unirest-java-1.4.9.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
